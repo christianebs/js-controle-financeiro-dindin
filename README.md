@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=christianebs.js-controle-finaceiro-dindin) ![GitHub Repo stars](https://img.shields.io/github/stars/christianebs/js-controle-finaceiro-dindin) ![GitHub pull requests](https://img.shields.io/github/issues-pr/christianebs/js-controle-finaceiro-dindin) ![GitHub closed issues](https://img.shields.io/github/issues-closed/christianebs/js-controle-finaceiro-dindin)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=christianebs.js-controle-financeiro-dindin) ![GitHub Repo stars](https://img.shields.io/github/stars/christianebs/js-controle-financeiro-dindin) ![GitHub pull requests](https://img.shields.io/github/issues-pr/christianebs/js-controle-financeiro-dindin) ![GitHub closed issues](https://img.shields.io/github/issues-closed/christianebs/js-controle-financeiro-dindin)
 
 # API de Controle Financeiro - Dindin
 
@@ -10,7 +10,14 @@ Este projeto foi desenvolvido como parte do Módulo 3 da **Cubos Academy**, cons
 
 ## :paintbrush: Layout
 
-- Em breve
+- Insomnia
+
+![js-dindin](https://github.com/christianebs/js-controle-financeiro-dindin/assets/108686840/b71d5dda-1053-4a37-be45-5d302a943a8c)
+
+- Beekeeper
+
+![banco-de-dados-dindin](https://github.com/christianebs/js-controle-financeiro-dindin/assets/108686840/cea380e7-0423-474b-bc06-13687f64f428)
+
 
 ## :triangular_flag_on_post: Contribua com o projeto
 
