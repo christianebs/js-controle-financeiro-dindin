@@ -93,10 +93,6 @@ Essa configuração permite iniciar o servidor em modo de desenvolvimento usando
 - GET /transacao/extrato - Gerar um extrato com a soma de transações de entrada e saída do usuário logado
 - GET /transacao?filtro[]=roupas&filtro[]=salários - Consultar transações do usuário logado com base em categorias específicas
 
-## :memo: Collections
-
-- [Insomnia](https://github.com/christianebs/js-banco-digital-cubos/blob/main/Insomnia_collections.json)
-
 ## :woman_technologist: Desenvolvedoras
 
 
